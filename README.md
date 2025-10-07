@@ -4,4 +4,4 @@
 
 ## Markdown Documentation
 
-[Customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung"](https://github.com/BAMresearch/bam-masterdata)
+[MkDocs Theme of BAM](https://github.com/BAMresearch/bam-masterdata) - customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung"

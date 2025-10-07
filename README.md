@@ -12,6 +12,6 @@ A well-curated collection of top material informatics resources, covering data m
 
 [Computational Material Sample Ontology](https://github.com/OCDO/cmso) - Widoco, Lode based ontology to build a ontology specification.  
 
-## Reasearch Data Management
+## Research Data Management
 
 [OpenBIS](https://openbis.ch/) - Solution to manage research solution based on fair-data principles.

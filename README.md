@@ -17,7 +17,7 @@ A well-curated collection of top material informatics resources, covering data m
 
 ## Unit Management
 
-[QUDT](https://qudt.org/) - Public charity nonprofit organization founded to provide semantic specifications for units of measure, quantity kind, dimensions and data types.
+[QUDT](https://qudt.org/) - Semantic specifications for units of measure, quantity kind, dimensions and data types.
 
 
 

@@ -2,6 +2,6 @@
 
 **A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies.**
 
-## Documentation
+## Markdown Documentation
 
-[MKDocs Markdown Webpage of "Bundesanstalt für Materialforschung und -prüfung"](https://github.com/BAMresearch/bam-masterdata)
+[Customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung"](https://github.com/BAMresearch/bam-masterdata)

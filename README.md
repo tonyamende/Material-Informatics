@@ -7,3 +7,7 @@
 [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/) - Documentation that simply works.  
 [MkDocs Theme of BAM](https://github.com/BAMresearch/bam-masterdata) - customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung".  
 [Docusaurus](https://docusaurus.io/) - Docusaurus will help you ship a beautiful documentation site in no time.  
+
+## Ontology
+
+[Computational Material Sample Ontology](https://github.com/OCDO/cmso) - Widoco, Lode based ontology to build a ontology specification.  

@@ -10,6 +10,7 @@ A well-curated collection of top material informatics resources, covering data m
 
 [Computational Material Sample Ontology](https://github.com/OCDO/cmso) - Widoco, Lode based ontology to build ontology specifications.  
 [Helmholtz Metadaten](https://purls.helmholtz-metadaten.de/) - Persistent identifiers for semantic artifacts.
+[LinkML](https://linkml.io/) - General purpose modeling language that can be used with linked data, JSON and other formalisms.
 
 ## Research Data Management
 

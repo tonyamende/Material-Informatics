@@ -14,4 +14,4 @@ A well-curated collection of top material informatics resources, covering data m
 
 ## Research Data Management
 
-[OpenBIS](https://openbis.ch/) - Solution to manage research solution based on fair-data principles.
+[OpenBIS](https://openbis.ch/) - Solution to manage research data based on FAIR data principles.

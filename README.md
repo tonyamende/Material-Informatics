@@ -11,7 +11,7 @@ A well-curated collection of top material informatics resources, covering data m
 ## Ontology
 
 [Computational Material Sample Ontology](https://github.com/OCDO/cmso) - Widoco, Lode based ontology to build a ontology specification.  
-[PURLS](https://purls.helmholtz-metadaten.de/) - Persistent identifiers for semantic artifacts.
+[Helmholtz Metadaten](https://purls.helmholtz-metadaten.de/) - Persistent identifiers for semantic artifacts.
 
 ## Research Data Management
 

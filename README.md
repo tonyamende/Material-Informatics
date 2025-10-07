@@ -4,4 +4,4 @@
 
 ## Documentation
 
-[BAM-MkDocs](https://github.com/BAMresearch/bam-masterdata)
+[MKDocs Markdown Webpage of "Bundesanstalt für Materialforschung und -prüfung"](https://github.com/BAMresearch/bam-masterdata)

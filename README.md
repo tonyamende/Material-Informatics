@@ -1,6 +1,6 @@
 A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies.
 
-## **Markdown Documentation (general purpose)**
+## Markdown Documentation (general purpose)
 
 [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/) - Documentation that simply works.  
 [MkDocs Theme of BAM](https://github.com/BAMresearch/bam-masterdata) - Customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung".  

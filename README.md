@@ -40,4 +40,4 @@ A well-curated collection of top material informatics resources, covering data m
 
 ---
 
-Curated with ❤️, inspired by a passion for material informatics.
+Curated with ❤️, inspired by a passion for material informatics and open source.

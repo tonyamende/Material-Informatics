@@ -29,7 +29,8 @@ A well-curated collection of top material informatics resources, covering data m
 
 ### Back-End
 
-[FASTAPI](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.  
+[FASTAPI](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production. 
+[GO](https://go.dev/) - Build simple, secure, scalable systems with Go.  
 [MCP](https://github.com/modelcontextprotocol/python-sdk) - Python implementation of the Model Context Protocol (MCP) to interact with LLM's.  
 
 ### LLM

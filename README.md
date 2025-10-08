@@ -1,4 +1,4 @@
-A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies.
+A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies to build web applications.
 
 ## Markdown Documentation (general purpose)
 

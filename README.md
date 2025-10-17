@@ -2,11 +2,12 @@
 
 A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies to build web applications.
 
-## Markdown Documentation (general purpose)
+## Markdown Documentation
 
+[Docsify](https://docsify.js.org/#/) - Simple and lightweigth documentation site generator.
+[Docusaurus](https://docusaurus.io/) - Docusaurus will help you ship a beautiful documentation site in no time.  
 [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/) - Documentation that simply works.  
 [MkDocs Theme of BAM](https://github.com/BAMresearch/bam-masterdata) - Customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung".  
-[Docusaurus](https://docusaurus.io/) - Docusaurus will help you ship a beautiful documentation site in no time.  
 
 ## Ontology
 
@@ -14,7 +15,7 @@ A well-curated collection of top material informatics resources, covering data m
 [Helmholtz Metadaten](https://purls.helmholtz-metadaten.de/) - Persistent identifiers for semantic artifacts.  
 [LinkML](https://linkml.io/) - General purpose modeling language that can be used with linked data, JSON and other formalisms.
 
-## Research/Laboratory Data Management
+## Laboratory Data Management
 
 [OpenBIS](https://openbis.ch/) - Solution to manage research data based on FAIR data principles.
 
@@ -37,8 +38,8 @@ A well-curated collection of top material informatics resources, covering data m
 
 ### LLM
 
+[LangChain](https://www.langchain.com/) - comprehensive platform for agent engineering.
 [Ollama](https://ollama.com/) - open LLM models which can run locally, interact with Python.
-
 
 ---
 

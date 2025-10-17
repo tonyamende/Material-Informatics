@@ -4,7 +4,7 @@ A well-curated collection of top material informatics resources, covering data m
 
 ## Markdown Documentation
 
-[Docsify](https://docsify.js.org/#/) - Simple and lightweigth documentation site generator.
+[Docsify](https://docsify.js.org/#/) - Simple and lightweigth documentation site generator.  
 [Docusaurus](https://docusaurus.io/) - Docusaurus will help you ship a beautiful documentation site in no time.  
 [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/) - Documentation that simply works.  
 [MkDocs Theme of BAM](https://github.com/BAMresearch/bam-masterdata) - Customized MkDocs Theme of "Bundesanstalt für Materialforschung und -prüfung".  
@@ -38,7 +38,7 @@ A well-curated collection of top material informatics resources, covering data m
 
 ### LLM
 
-[LangChain](https://www.langchain.com/) - comprehensive platform for agent engineering.
+[LangChain](https://www.langchain.com/) - comprehensive platform for agent engineering.  
 [Ollama](https://ollama.com/) - open LLM models which can run locally, interact with Python.
 
 ---

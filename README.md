@@ -1,6 +1,6 @@
 # Material Informatics
 
-A well-curated collection of top material informatics resources, covering data modeling, documentation, tools, and cutting-edge technologies to build web applications.
+A well-curated collection of resources, covering data modeling, documentation, tools, and cutting-edge technologies to build web applications focused on material informatics.
 
 ## Markdown Documentation
 

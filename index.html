@@ -1,25 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Docs</title>
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Docs with Search</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
 </head>
 <body>
-  <!-- The app root -->
   <div id="app">Loading...</div>
 
-  <!-- Docsify script -->
   <script>
     window.$docsify = {
       name: 'My Docs',
-      repo: '', // Add your GitHub repo URL here if you want
+      repo: '', // Optional: GitHub repo URL
       loadSidebar: true,
       subMaxLevel: 2,
-      loadNavbar: true
+      loadNavbar: true,
+      search: {
+        maxAge: 86400000, // 1 day
+        paths: 'auto',     // auto scans all markdown files
+        placeholder: 'Search...',
+        noData: 'No results!',
+        depth: 2           // Search headings up to depth 2
+      }
     };
   </script>
+
+  <!-- Docsify core -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <!-- Full-text search plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
+

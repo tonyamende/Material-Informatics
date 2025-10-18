@@ -1,6 +1,6 @@
 # Material Informatics
 
-A thoughtfully assembled set of resources encompassing data modeling, documentation, tools, and advanced technologies for developing web applications in the field of material informatics.
+In my free time, I explore open-source technologies for material information management, web development, and general-purpose applications. I curate resources on data modeling, documentation, tools, and advanced technologies to build efficient web apps. By experimenting with web technologies, machine learning, and cloud solutions, I aim to stay up to date with the latest advancements and continually expand my knowledge, creating scalable, accessible systems that improve data integration and drive innovation.
 
 ## Markdown Documentation
 

@@ -13,7 +13,8 @@ In my free time, I explore open-source technologies for material information man
 
 [Computational Material Sample Ontology](https://github.com/OCDO/cmso) - Widoco, Lode based ontology to build ontology specifications.  
 [Helmholtz Metadaten](https://purls.helmholtz-metadaten.de/) - Persistent identifiers for semantic artifacts.  
-[LinkML](https://linkml.io/) - General purpose modeling language that can be used with linked data, JSON and other formalisms.
+[LinkML](https://linkml.io/) - General purpose modeling language that can be used with linked data, JSON and other formalisms.  
+[Protege](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.  
 
 ## Laboratory Data Management
 

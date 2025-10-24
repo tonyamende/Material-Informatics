@@ -16,9 +16,10 @@ In my free time, I explore open-source technologies for material information man
 [LinkML](https://linkml.io/) - General purpose modeling language that can be used with linked data, JSON and other formalisms.  
 [Protege](https://protege.stanford.edu/) - A free, open-source ontology editor and framework for building intelligent systems.  
 
-## Laboratory Data Management
+## Research
 
-[OpenBIS](https://openbis.ch/) - Solution to manage research data based on FAIR data principles.
+[OpenBIS](https://openbis.ch/) - Solution to manage research data based on FAIR data principles.  
+[OSF](https://osf.io/) - OSF is a free, open platform to support your research and enable collaboration.  
 
 ## Unit Management
 

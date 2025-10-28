@@ -29,6 +29,7 @@ In my free time, I explore open-source technologies for material information man
 
 ### Front-End
 
+[Angular](https://angular.dev/) - The framework for building scalable web apps with confidence.   
 [REACT](https://react.dev/) - The library for web and native user interfaces.  
 
 ### UI
